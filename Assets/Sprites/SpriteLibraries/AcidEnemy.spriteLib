@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle
+    m_Hash: 1008081451
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: AcidIdle
+      m_Hash: 609222986
+      m_Sprite: {fileID: 21300000, guid: f178d0567bc7f14419190c65b14f0ebd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f178d0567bc7f14419190c65b14f0ebd, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk
+    m_Hash: 765711723
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: AcidIdle
+      m_Hash: 609222986
+      m_Sprite: {fileID: 21300000, guid: f178d0567bc7f14419190c65b14f0ebd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f178d0567bc7f14419190c65b14f0ebd, type: 3}
+    - m_Name: AcidIdle_0
+      m_Hash: 666030209
+      m_Sprite: {fileID: 21300000, guid: f178d0567bc7f14419190c65b14f0ebd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f178d0567bc7f14419190c65b14f0ebd, type: 3}
+    - m_Name: JadeIdle
+      m_Hash: 794506843
+      m_Sprite: {fileID: 21300000, guid: bd03562ed5edf644592dba361069c910, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: bd03562ed5edf644592dba361069c910, type: 3}
+    - m_Name: RubyIdle
+      m_Hash: 551370118
+      m_Sprite: {fileID: 21300000, guid: 55dc9e2d988c98d449c78ea0182d32e3, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 55dc9e2d988c98d449c78ea0182d32e3, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: Death
+    m_Hash: 646380074
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: AcidIdle
+      m_Hash: 609222986
+      m_Sprite: {fileID: 21300000, guid: f178d0567bc7f14419190c65b14f0ebd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f178d0567bc7f14419190c65b14f0ebd, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Attack
+    m_Hash: 7088141
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: AcidIdle
+      m_Hash: 609222986
+      m_Sprite: {fileID: 21300000, guid: f178d0567bc7f14419190c65b14f0ebd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f178d0567bc7f14419190c65b14f0ebd, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: TakeHit
+    m_Hash: 916076283
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: AcidHit
+      m_Hash: 214438044
+      m_Sprite: {fileID: 21300000, guid: e63d1e5ab1f04c8428e1c503b588b561, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: e63d1e5ab1f04c8428e1c503b588b561, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638858876278232217
+  m_Version: 1

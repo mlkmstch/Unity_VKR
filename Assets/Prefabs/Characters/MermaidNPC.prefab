@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1028101160492676853
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 363425390452278722, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_Name
+      value: NPCShadow
+      objectReference: {fileID: 0}
+    - target: {fileID: 2338697094605602185, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 5.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 2338697094605602185, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 4.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 5136125583338115393, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2668974
+      objectReference: {fileID: 0}
+    - target: {fileID: 5136125583338115393, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.1232466
+      objectReference: {fileID: 0}
+    - target: {fileID: 5136125583338115393, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 5136125583338115393, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5984520927153149465, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 80c2291c7603554468c2432f56736f52, type: 3}
+    - target: {fileID: 6940303685968822627, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: dialogueData
+      value: 
+      objectReference: {fileID: 11400000, guid: 1e2d722ef1cdafa4f8055fa43bf9592f, type: 2}
+    - target: {fileID: 7855000712048140052, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_Name
+      value: MermaidNPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -34.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 24.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6419454833710033139
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 363425390452278722, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_Name
+      value: NPCShadow
+      objectReference: {fileID: 0}
+    - target: {fileID: 2338697094605602185, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2338697094605602185, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 2.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 5136125583338115393, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 5136125583338115393, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.37003037
+      objectReference: {fileID: 0}
+    - target: {fileID: 5136125583338115393, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 5.5640736
+      objectReference: {fileID: 0}
+    - target: {fileID: 5136125583338115393, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 5136125583338115393, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 5984520927153149465, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 48f7370d13db67d448f405c7940ba716, type: 3}
+    - target: {fileID: 6940303685968822627, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: dialogueData
+      value: 
+      objectReference: {fileID: 11400000, guid: d3f44d07fc0740446ae66cdc9373fca6, type: 2}
+    - target: {fileID: 7855000712048140052, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_Name
+      value: FairyNPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 115.471504
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.841118
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.5156596
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9090085660349065314, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 66a494678d476634483f9fd7a9852cf4, type: 3}

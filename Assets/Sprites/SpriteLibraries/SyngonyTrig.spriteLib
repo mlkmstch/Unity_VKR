@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: SyngonyAnimation
+    m_Hash: 844107371
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: trig1
+      m_Hash: 925029616
+      m_Sprite: {fileID: 21300000, guid: dd03c55110ab9e1439aef9557a3a26f1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: dd03c55110ab9e1439aef9557a3a26f1, type: 3}
+    - m_Name: trig2
+      m_Hash: 774604106
+      m_Sprite: {fileID: 21300000, guid: f814f5653699efc4ea5ce3acc3dd6453, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f814f5653699efc4ea5ce3acc3dd6453, type: 3}
+    - m_Name: trig3
+      m_Hash: 422360540
+      m_Sprite: {fileID: 21300000, guid: 3d801508761047e46a6633149ec9cccb, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3d801508761047e46a6633149ec9cccb, type: 3}
+    - m_Name: trig4
+      m_Hash: 122167423
+      m_Sprite: {fileID: 21300000, guid: 582fa096516a44141837e559fcf880d6, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 582fa096516a44141837e559fcf880d6, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638858746041658618
+  m_Version: 1

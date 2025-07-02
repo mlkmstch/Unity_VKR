@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b9aa68f098240c4ea6ceeb4a5143e2d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questListContent: {instanceID: 0}
+  - questEntryPrefab: {fileID: 7023637623856558452, guid: 4592ad57893bb304b86f39156c53ac8d, type: 3}
+  - objectiveTextPrefab: {fileID: 3883526423645176284, guid: 9f14f3f282ee2f84c8bf6ca3e7ee8d75, type: 3}
+  - questPanel: {instanceID: 0}
+  - testQuest: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

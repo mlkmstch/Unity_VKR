@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0e168e40bb3d39428f9f9fa83fff52c, type: 3}
+  m_Name: CollectItems
+  m_EditorClassIdentifier: 
+  questID: a78a64c2-d1a4-445a-ab05-4c9f61791385
+  questName: "\u041F\u043E\u0438\u0441\u043A"
+  description: "\u041D\u0430\u0439\u0442\u0438 1 \u0430\u043A\u0432\u0430\u043C\u0430\u0440\u0438\u043D"
+  objectives:
+  - objectiveID: 1
+    description: "\u041D\u0430\u0439\u0442\u0438 1 \u0430\u043A\u0432\u0430\u043C\u0430\u0440\u0438\u043D"
+    type: 0
+    requiredAmount: 0
+    currentAmount: 0
+  questRewards:
+  - type: 1
+    rewardID: 0
+    amount: 0

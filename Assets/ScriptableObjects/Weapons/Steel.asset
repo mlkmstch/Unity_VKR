@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e0ab3b74f84d44781e9a964dc635d4, type: 3}
+  m_Name: Steel
+  m_EditorClassIdentifier: 
+  weaponType: steel
+  weaponName: "\u0421\u0442\u0430\u043B\u044C\u043D\u043E\u0439 \u043C\u0435\u0447"
+  damageAmount: 2
+  usageAmount: 0
+  weaponSprite: {fileID: 21300000, guid: 4422c399d0ed629468c084f0b8d8a9c7, type: 3}
